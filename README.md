@@ -1,3 +1,3 @@
 # Fixtures
 
-Hier findet man die Fixture-Definitions zu all unseren Geräten (z.B. Lampen und Nebelmaschinen).
+Hier findet man die QLC+-Fixture-Definitions zu all unseren DMX Geräten (z.B. Lampen und Nebelmaschinen).
